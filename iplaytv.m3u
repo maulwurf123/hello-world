@@ -34,7 +34,7 @@ https://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
 #EXTINF:0 tvg-ID="Tagesschau24.de" tvg-name="Tagesschau24.de",tagesschau24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:0 tvg-ID="" tvg-name="",ARD Alpha
-https://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 #EXTINF:0 tvg-ID="MDRSachsen.de" tvg-name="MDRSachsen.de",MDR
 https://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8
 #EXTINF:0 tvg-ID="Kika.de" tvg-name="Kika.de",KIKA
